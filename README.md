@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Olá devs 👋
 
 Olá, Tudo bem?? 
